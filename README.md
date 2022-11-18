@@ -1,4 +1,4 @@
-# devsmeet-app
+# DevsMeet App
 
 🌎 DevsMeet
 
