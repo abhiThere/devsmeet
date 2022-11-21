@@ -28,6 +28,7 @@ This web app is developed using React and implements React Router for navigation
 
 # Acknowledgements
 
+* [Netlify](https://www.netlify.com/)
 * [Font Awesome](https://fontawesome.com)
 * [flaticon](https://www.flaticon.com/)
 * [favicon.io](https://favicon.io/)
