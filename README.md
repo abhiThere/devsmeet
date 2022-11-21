@@ -13,9 +13,9 @@ The meetup organizer can schedule a new meetup by providing the meetup details i
 
 # Features
 
-* View list of upcoming meetups.
+* View the list of upcoming meetups.
 * Mark a meetup as favorite.
-* View list of favorite meetups.
+* View the list of favorite meetups.
 * Schedule a new meetup.
 
 # Built With
