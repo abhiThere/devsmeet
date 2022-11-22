@@ -21,9 +21,8 @@ The meetup organizer can schedule a new meetup by providing the meetup details i
 # 📷 Screenshots
 
 ![All Meetups](https://user-images.githubusercontent.com/74660692/203370663-34a9b7ce-5129-4164-9057-974cced7a525.png)
-
 ![New Meetup Form](https://user-images.githubusercontent.com/74660692/203371076-57490858-3e33-4e2f-8dd7-05c8c13835cc.png)
-
+![Favorite Meetups](https://user-images.githubusercontent.com/74660692/203371235-652d780d-3c78-40c9-bef3-7024c0f8a89d.png)
 
 # 👨‍💻 Built With
 
