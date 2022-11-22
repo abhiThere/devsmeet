@@ -1,4 +1,4 @@
-# DevsMeet 🌎
+# 🌐 DevsMeet
 
 A meetups web application to organize developer meetups around the world.
 
