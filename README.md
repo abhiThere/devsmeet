@@ -11,7 +11,7 @@ The web app displays a list of upcoming meetups. Each meetup holds all the neces
 The users can mark a meetup they wish to attend as favorite. They can also view the list of favorite meetups at a glance.
 The meetup organizer can schedule a new meetup by providing the meetup details in a form.
 
-# Features
+# 🎯 Features
 
 * View the list of upcoming meetups.
 * Mark a meetup as favorite.
