@@ -20,7 +20,7 @@ The meetup organizer can schedule a new meetup by providing the meetup details i
 
 # 📷 Screenshots
 
-# 💻 Built With
+# 👨‍💻 Built With
 
 This web app is developed using React and implements React Router for navigation between pages.
 
