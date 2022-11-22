@@ -18,7 +18,9 @@ The meetup organizer can schedule a new meetup by providing the meetup details i
 * View the list of favorite meetups.
 * Schedule a new meetup.
 
-# Built With
+# 📷 Screenshots
+
+# 💻 Built With
 
 This web app is developed using React and implements React Router for navigation between pages.
 
@@ -26,7 +28,7 @@ This web app is developed using React and implements React Router for navigation
 * [![React Router][react-router-shield]][react-router-url]
 * [![CSS][css-shield]][css-url]
 
-# Acknowledgements
+# 📝 Acknowledgements
 
 * [Netlify](https://www.netlify.com/)
 * [Font Awesome](https://fontawesome.com)
