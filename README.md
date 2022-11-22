@@ -20,6 +20,8 @@ The meetup organizer can schedule a new meetup by providing the meetup details i
 
 # 📷 Screenshots
 
+![All Meetups](https://user-images.githubusercontent.com/74660692/203370663-34a9b7ce-5129-4164-9057-974cced7a525.png)
+
 # 👨‍💻 Built With
 
 This web app is developed using React and implements React Router for navigation between pages.
