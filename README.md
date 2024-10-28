@@ -6,10 +6,10 @@ The web app is live at [DevsMeet](https://soft-nasturtium-17701b.netlify.app/)
 
 # 📃 Description
 
-DevsMeet is a meetups web app for developers to organize tech meetups.
-The web app showcases upcoming meetups. Each meetup shows all the necessary details.
+DevsMeet is a meetups web application for developers to organize meetups.
+The web app showcases upcoming meetups. Each meetup entails all the necessary details.
 The users can mark a meetup they wish to attend as favourite. They can also view all their favourite meetups at a glance.
-The meetup organizer can schedule a new meetup by providing the meetup details via a form.
+The meetup organizer can schedule a new meetup by filling out a form.
 
 # 🎯 Features
 
@@ -33,7 +33,7 @@ The meetup organizer can schedule a new meetup by providing the meetup details v
 
 # 👨🏻‍💻 Built With
 
-This web app is developed using React and implements React Router for navigation between pages.
+This web app is developed using React and React Router to deliver a seamless user experience.
 
 * [![React][react-shield]][react-url]
 * [![React Router][react-router-shield]][react-router-url]
