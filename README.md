@@ -1,4 +1,4 @@
-# 👨🏻‍💻 DevsMeet
+# 🌐 DevsMeet
 
 A meetups web application to organize developer meetups.
 
@@ -31,7 +31,7 @@ The meetup organizer can schedule a new meetup by providing the meetup details v
 
 ![Favorite Meetups](https://user-images.githubusercontent.com/74660692/203371235-652d780d-3c78-40c9-bef3-7024c0f8a89d.png)
 
-# 🛠 Built With
+# 👨🏻‍💻 Built With
 
 This web app is developed using React and implements React Router for navigation between pages.
 
