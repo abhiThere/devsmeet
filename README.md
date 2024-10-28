@@ -1,21 +1,21 @@
 # 🌐 DevsMeet
 
-A meetups web application to organize developer meetups around the world.
+A meetups web application to organize developer meetups.
 
 The web app is live at [DevsMeet](https://soft-nasturtium-17701b.netlify.app/)
 
 # 📃 Description
 
-DevsMeet is a meetups web app for developers to organize tech meetups across the globe.
-The web app displays a list of upcoming meetups. Each meetup holds all the necessary information like title, image, location, date and agenda.
-The users can mark a meetup they wish to attend as favorite. They can also view the list of favorite meetups at a glance.
-The meetup organizer can schedule a new meetup by providing the meetup details in a form.
+DevsMeet is a meetups web app for developers to organize tech meetups.
+The web app showcases upcoming meetups. Each meetup shows all the necessary details.
+The users can mark a meetup they wish to attend as favourite. They can also view all their favourite meetups at a glance.
+The meetup organizer can schedule a new meetup by providing the meetup details via a form.
 
 # 🎯 Features
 
-* View the list of upcoming meetups.
-* Mark a meetup as favorite.
-* View the list of favorite meetups.
+* Showcase upcoming meetups.
+* Mark a meetup as favourite.
+* Showcase favourite meetups.
 * Schedule a new meetup.
 
 # 📷 Screenshots
