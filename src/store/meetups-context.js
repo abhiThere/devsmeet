@@ -14,7 +14,7 @@ export const MeetupsContextProvider = (props) => {
       address: "Berlin, Germany",
       description:
         "Explore the React universe with us! Focusing on in-depth talks, career-boosting workshops, and networking opportunities, the React Day Berlin conference provides space for everyone to make friends and collaborate on stellar apps.",
-      date: "Friday, December 2, 2022",
+      date: "Friday, December 2, 2025",
     },
     {
       id: "m2",
@@ -23,7 +23,7 @@ export const MeetupsContextProvider = (props) => {
       address: "San Francisco, CA, US",
       description:
         "Join us for the NextJS Meetup discussing the brand new features introduced by the latest version of NextJS this year. Get to know how the latest NextJS release lays the foundations to be dynamic without limits and network with the active community. Excited to see you there!",
-      date: "Monday, December 5, 2022",
+      date: "Monday, December 5, 2025",
     },
   ];
 
