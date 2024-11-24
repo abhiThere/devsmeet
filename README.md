@@ -1,6 +1,7 @@
 # 🌐 DevsMeet
 
 A meetups web application to streamline organisation of developer events.
+
 App Link: [DevsMeet](https://soft-nasturtium-17701b.netlify.app/)
 
 # 📃 Description
